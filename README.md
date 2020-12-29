@@ -1,6 +1,6 @@
 <h3> Hi there 👋, I'm Harshit 🤵‍</h3>
 
-<h4>⚡Hey, I'm Harshit Gupta passionate self-taught WebDeveloper, IoT & smart devices enthusiast🎯</h4>
+<h4>📢Hey, I'm Harshit Gupta passionate self-taught WebDeveloper, IoT & smart devices enthusiast🎯</h4>
 
 - 👨‍💻 Programming Languages : javascript, python & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
