@@ -5,7 +5,7 @@
 
 <br>
 
-<h3>Skill's 🎯</h3>
+<h3>Skills 🎯</h3>
 
 - 👨‍💻 Programming Languages : javascript, python & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
