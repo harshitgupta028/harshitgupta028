@@ -11,7 +11,7 @@
 - ⚡ PCB Designer, IoT enthusiast.
 - 🕹️ Micro-controllers & Processors : Arduino, Esp's & Raspberry pi. 
 
-<h3>What I'm doing in current.</h3>
+<h3>⚡ What I'm doing in current ⚡</h3>
 
 - 🌱 I’m currently learning backend Tech.
 - 🔭 I’m currently working on backend & IoT projects.
