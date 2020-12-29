@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h3> I'm Harshit 🤵‍</h3>
+<h3> Hi there 👋, I'm Harshit 🤵‍</h3>
 <p>📢 a Web Developer, IoT & smart devices enthusiast</p>
 
 <h3>Skills 🎯</h3>
