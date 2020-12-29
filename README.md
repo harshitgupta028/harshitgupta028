@@ -1,17 +1,13 @@
 <h3> Hi there 👋, I'm Harshit 🤵‍</h3>
 <p>📢 a Web Developer, IoT & smart devices enthusiast</p>
 
-<br>
-
-<h3>Skills 🎯</h3>
+<h4>⚡Hey, I'm Harshit Gupta passionate self-taught WebDeveloper & IoT enthusiast🎯</h4>
 
 - 👨‍💻 Programming Languages : javascript, python & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
 - 🦄 Frameworks : Bootstrap & jQuery.
 - ⚡ PCB Designer, IoT enthusiast.
 - 🕹️ Micro-controllers & Processors : Arduino, Esp's & Raspberry pi. 
-
-<br>
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 - 🌱 I’m currently learning backend Tech.
