@@ -16,6 +16,7 @@
 
 <h3>My Stats 💯</h3>
 
+[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshitg123&show_icons=true&theme=tokyonight)](https://github.com/harshitg123/github-readme-stats)
 
 
 
