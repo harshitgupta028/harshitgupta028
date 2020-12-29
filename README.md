@@ -11,8 +11,9 @@
 - ⚡ PCB Designer, IoT enthusiast.
 - 🕹️ Micro-controllers & Processors : Arduino, Esp's & Raspberry pi. 
 
-<h3>⚡ What I'm doing in current ⚡</h3>
+<br>
 
+<h3>⚡ What I'm doing in current ⚡</h3>
 - 🌱 I’m currently learning backend Tech.
 - 🔭 I’m currently working on backend & IoT projects.
 - 📫 How to reach me: harshit.28.sps@gmail.com
