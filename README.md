@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3> I'm Harshit 🤵‍</h3>
-<p>a Web Developer, IoT & smart devices enthusiast 📢.</p>
+<p>📢 a Web Developer, IoT & smart devices enthusiast</p>
 
 <h3>Skills 🎯</h3>
 
