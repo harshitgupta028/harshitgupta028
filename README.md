@@ -5,14 +5,15 @@
 - 👨‍💻 Programming Languages : javascript, python & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
 - 🦄 Frameworks : Bootstrap & jQuery.
-- 💻 Backend : Node.js, EJS, MongoDB, Git & Github for version Control.
+- 💻 Backend : Node.js, EJS, MongoDB.
 - 🦄 Frameworks : Express.js, mongoose.
+- ⏪ Version control: Git & Github.
 - ⚡ PCB Designer, IoT enthusiast.
 - 🕹️ Micro-controllers & Processors : Arduino, Esp's & Raspberry pi. 
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
-- 🌱 I’m currently learning backend Tech React.js.🎯
+- 🌱 I’m currently learning React.js.🎯
 - 🔭 I’m currently working on backend & IoT projects.
 - 📫 How to reach me: harshit.28.sps@gmail.com
 
