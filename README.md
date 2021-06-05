@@ -19,7 +19,6 @@
 
 <h3>My Stats 💯</h3>
 
-[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshitg123&show_icons=true&theme=tokyonight)](https://github.com/harshitg123/github-readme-stats)
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitg123&show_icons=true&locale=en" alt="harshitg123" /></p> <p> <img width="414" align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitg123&show_icons=true&locale=en&layout=compact" alt="harshitg123" /></p>
 
