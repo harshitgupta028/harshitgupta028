@@ -19,6 +19,6 @@
 
 <h3>My Stats 💯</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitg123&show_icons=true&locale=en" alt="harshitg123" /></p> <p> <img width="414" align="left"
+<p><img width="415" align="left" src="https://github-readme-stats.vercel.app/api?username=harshitg123&show_icons=true&locale=en" alt="harshitg123" /></p> <p> <img width="345" align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitg123&show_icons=true&locale=en&layout=compact" alt="harshitg123" /></p>
 
