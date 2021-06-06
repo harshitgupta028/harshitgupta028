@@ -2,7 +2,7 @@
 
 <h4>📢Hey, I'm Harshit Gupta passionate self-taught Web Developer, IoT & smart devices enthusiast🎯</h4>
 
-- 👨‍💻 Programming Languages : javascript, python & Embedded C. 
+- 👨‍💻 Programming Languages :  Python, javascript & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
 - 🦄 Frameworks : Bootstrap & jQuery.
 - 💻 Backend : Node.js, EJS, MongoDB.
