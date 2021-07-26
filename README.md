@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning React.js.🎯
 - 🔭 I’m currently working on backend & IoT projects.
-- 📫 How to reach me: harshit.28.sps@gmail.com
+- 📫 How to reach me: harshitofficial28@gmail.com
 
 <h3>My Stats 💯</h3>
 
