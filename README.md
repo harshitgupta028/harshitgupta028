@@ -2,14 +2,10 @@
 
 <h4>📢Hey, I'm Harshit Gupta passionate self-taught Web Developer, IoT & smart devices enthusiast🎯</h4>
 
-- 👨‍💻 Programming Languages :  Python, javascript , Java & Embedded C. 
+- 👨‍💻 Programming Languages :  Python, Java & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
 - 🦄 Frameworks : Bootstrap & jQuery.
 - 💻 Backend : Spring boot.
-- 🦄 Frameworks : Express.js, mongoose.
-- ⏪ Version control: Git & Github.
-- ⚡ PCB Designer, IoT enthusiast.
-- 🕹️ Micro-controllers & Processors : Arduino, Esp's & Raspberry pi. 
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
