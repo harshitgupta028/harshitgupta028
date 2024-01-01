@@ -4,8 +4,8 @@
 
 - 👨‍💻 Programming Languages :  Python, Java & Embedded C. 
 - 💻 Frontend : HTML, CSS & Javascript.
-- 🦄 Frameworks : Bootstrap & jQuery.
-- 💻 Backend : Spring boot.
+- 🦄 Frameworks : Bootstrap & Spring boot.
+- 💻 Library : jQuery.
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
