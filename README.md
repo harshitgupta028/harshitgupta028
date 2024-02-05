@@ -1,15 +1,15 @@
 <h3> Hi there 👋, I'm Harshit 🤵‍</h3>
 
-<h4>📢Hey, I'm Harshit Gupta passionate self-taught Web Developer, IoT & smart devices enthusiast🎯</h4>
+<h4>📢Hey, I'm Harshit Gupta, a passionate self-taught Web Developer, IoT & smart devices enthusiast🎯</h4>
 
-- 👨‍💻 Programming Languages :  Python, Java & Embedded C. 
-- 💻 Frontend : HTML, CSS & Javascript.
-- 🦄 Frameworks : Bootstrap & Spring boot.
-- 💻 Library : jQuery.
+- 👨‍💻 Programming Languages:  Python, Java & Embedded C. 
+- 💻 Frontend: HTML, CSS & Javascript.
+- 💻 Backend: Java, XQuery, Spring boot.
+- 🦄 Frameworks: Spring boot & Bootstrap.
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
-- 🌱 I’m currently making my self better in java, angular & springboot.🎯
+- 🌱 I’m currently making myself better in Java and Spring Boot.🎯
 - 📫 How to reach me: harshitofficial28@gmail.com
 
 <h3>My Stats 💯</h3>
