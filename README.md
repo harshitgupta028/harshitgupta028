@@ -2,14 +2,14 @@
 
 <h4>📢Hey, I'm Harshit Gupta, a passionate self-taught Web Developer, IoT & smart devices enthusiast🎯</h4>
 
-- 👨‍💻 Programming Languages:  Python, Java & Embedded C. 
-- 💻 Frontend: HTML, CSS & Javascript.
-- 💻 Backend: Java, XQuery, Spring boot.
+- 👨‍💻 Programming Languages:  Java, Python & Embedded C. 
+- 💻 Frontend: HTML, XQuery, CSS & Javascript.
+- 💻 Backend: Java, Spring boot.
 - 🦄 Frameworks: Spring boot & Bootstrap.
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
-- 🌱 I’m currently making myself better in Java and Spring Boot.🎯
+- 🌱 I’m currently making myself better in Spring Boot and React.js🎯
 - 📫 How to reach me: harshitofficial28@gmail.com
 
 <h3>My Stats 💯</h3>
