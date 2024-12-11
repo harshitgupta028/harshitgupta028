@@ -4,7 +4,7 @@
 
 - 👨‍💻 Programming Languages:  Java, Python, Javascript.
 - 💻 Frontend: React, Bootstrap, HTML, CSS.
-- 💻 Backend: Spring boot, Node.
+- 💻 Backend: Spring boot, FastAPI, Node.
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
