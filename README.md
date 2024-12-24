@@ -8,7 +8,7 @@
 
 <h3>⚡ What I'm doing in current ⚡</h3>
 
-- 🌱 I’m currently making myself better in Spring Boot and React.js🎯
+- 🌱 I’m currently making myself better in React.js🎯
 - 📫 How to reach me: harshitofficial28@gmail.com
 
 <h3>My Stats 💯</h3>
